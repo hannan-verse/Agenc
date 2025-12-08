@@ -4,6 +4,7 @@ import Flex from '../components/Flex'
 import Heading from '../components/Heading'
 import Subheading from '../components/Subheading'
 import Servicecard from '../components/Servicecard'
+//==============All images
 import Webdesign from '../assets/webdesign.png'
 import Uiux from '../assets/uiux.png'
 import Webdev from '../assets/webdev.png'
