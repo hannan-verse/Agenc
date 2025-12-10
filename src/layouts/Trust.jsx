@@ -13,7 +13,7 @@ import Icon3 from '../assets/icon3.png'
 
 const Trust = () => {
   return (
-    <section className='pb-[150px]'>
+    <section className='pb-[150px] pt-[150px]'>
         <Container>
             <Flex className='items-end'>
                 <div className='w-7/12'>
